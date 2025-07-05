@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_HapusProdukDariKeranjang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e27462fe-caff-45d8-96d1-29317c400f23</testCaseGuid>
+</TestCaseEntity>

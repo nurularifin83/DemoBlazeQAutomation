@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ValidasiFieldKosongPadaOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30ded519-bfd1-4107-8950-fff78798522e</testCaseGuid>
+</TestCaseEntity>

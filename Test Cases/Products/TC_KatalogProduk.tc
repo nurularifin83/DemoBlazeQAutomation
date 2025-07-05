@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_KatalogProduk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8db5da9-995b-4484-94f5-eee0d6cd03d5</testCaseGuid>
+</TestCaseEntity>

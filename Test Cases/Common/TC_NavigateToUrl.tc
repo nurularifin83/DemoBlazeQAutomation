@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_NavigateToUrl</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6061ac7b-c49c-46d8-b299-0c3ecfef2a7b</testCaseGuid>
+</TestCaseEntity>
